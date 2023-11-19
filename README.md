@@ -10,12 +10,18 @@ git push
 code index.js
 }
 отправить {
-git brench ..
-git checkout ..
-git brench
+git brench .. // создать ветку
+git checkout .. // перейти ветку
+git brench // проверить переход в ветку
 git add -A
-git commit -m
+git commit -m .. // оставить коментарий ''
 git push
+}
+терминал {
+make text // проверить тест
+make lint // проверить линтер
+make lint-fix // исправить ошибки
+node (нозвание файла) // посмотреть вывод функции
 }
 console. log ()вывод текста на экран
 // оформление комментариев
