@@ -3,6 +3,11 @@ chmod +x bin/brain-games.js /// chmod -- команда используется
                             /// x -- опция специально устанавливает разрешение на выполнение файла
 sudo npm link --force   /// установливает аункцию в программу и ее можно использовать
 
+аскинема 
+asciinema rec demo.cast
+asciinema upload demo.cast
+asciinema auth
+
 клонировать репозиторий {
 git clone (ssh ссыдка )
 ls
