@@ -27,6 +27,7 @@ git commit -m .. // оставить коментарий ''
 git push
 }
 терминал {
+make install - линтер
 make text // проверить тест
 make lint // проверить линтер
 make lint-fix // исправить ошибки
